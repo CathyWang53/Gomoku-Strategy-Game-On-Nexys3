@@ -1,8 +1,8 @@
 # Gomoku-Strategy-Game-On-Nexys3
 This project uses C++ to implement Gomoku and design the interface, uses VHDL language to migrate to FPGA and realize VGA display. 
 
-software: XPS (Xilinx Platform Studio) 14.2 & SDK (Xilinx Software Development Kit)
-Board: Nexys3
+software: XPS (Xilinx Platform Studio) 14.2 & SDK (Xilinx Software Development Kit)<br>
+Board: Nexys3<br>
 other hardware: usb keyboard, vga screen (640*480)
 
 important files:
